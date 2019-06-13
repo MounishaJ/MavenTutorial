@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="137" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="137" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+      <class name="LearningMaven.AppiumTest">
+        <test-method status="PASS" signature="LauchApp()[pri:0, instance:LearningMaven.AppiumTest@7946e1f4]" name="LauchApp" duration-ms="31" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchApp -->
+        <test-method status="PASS" signature="QuitApp()[pri:0, instance:LearningMaven.AppiumTest@7946e1f4]" name="QuitApp" duration-ms="0" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitApp -->
+      </class> <!-- LearningMaven.AppiumTest -->
+      <class name="LearningMaven.RestApiTest">
+        <test-method status="PASS" signature="DeleteJira()[pri:0, instance:LearningMaven.RestApiTest@3c09711b]" name="DeleteJira" duration-ms="1" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteJira -->
+        <test-method status="PASS" signature="post()[pri:0, instance:LearningMaven.RestApiTest@3c09711b]" name="post" duration-ms="0" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:LearningMaven.RestApiTest@3c09711b]" name="postJira" duration-ms="1" started-at="2019-06-10T06:18:19Z" finished-at="2019-06-10T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- LearningMaven.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
